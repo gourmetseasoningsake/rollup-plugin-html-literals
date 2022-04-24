@@ -42,7 +42,7 @@ typings/
 .env.test
 
 # rollup.js default build output
-dist/
+#dist/
 
 # Temporary folders
 tmp/
