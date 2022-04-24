@@ -1,0 +1,5 @@
+= rollup-plugin-html-literals
+
+This is only a temporary solution for pnpm(-vite)-projects: `rollup` is marked as an optional peer to avoid the confusing message about it.
+The original repo lives https://github.com/jleeson/rollup-plugin-html-literals#readme[here].
+A little background https://github.com/rollup/plugins/pull/845[here].
