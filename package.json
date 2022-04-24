@@ -52,10 +52,5 @@
   },
   "peerDependencies": {
     "rollup": "^1.x.x||^2.x.x"
-  },
-  "peerDependenciesMeta": {
-    "rollup": {
-      "optional": true
-    }
   }
 }
